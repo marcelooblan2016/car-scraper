@@ -1,0 +1,6 @@
+node_modules
+screenshots/*
+adesa*.log
+vehicles*.json
+vins/
+profile/
